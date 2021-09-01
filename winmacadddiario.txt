@@ -1,0 +1,57 @@
+C:\Users\cmadrid>netsh wlan show interfaces | findstr /i /c:"Dirección" /c:"SSID" & nesth interface ip show config name="Wi-Fi" | findstr "Dirección IP"
+    Dirección física       : 46:ab:65:57:5c:90
+    SSID                   : test2
+    BSSID                  : 0e:80:63:72:0f:4c
+"nesth" no se reconoce como un comando interno o externo,
+programa o archivo por lotes ejecutable.
+
+C:\Users\cmadrid>netsh wlan show interfaces | findstr /i /c:"Dirección" /c:"SSID" & netsh interface ip show config name="Wi-Fi" | findstr "Dirección IP"
+    Dirección física       : 46:ab:65:57:5c:90
+    SSID                   : test2
+    BSSID                  : 0e:80:63:72:0f:4c
+    Dirección IP:                           192.168.1.88
+
+C:\Users\cmadrid>netsh wlan show interfaces | findstr /i /c:"Dirección" /c:"SSID" & netsh interface ip show config name="Wi-Fi" | findstr "Dirección IP"
+    Dirección física       : c2:2b:b5:15:7f:c2
+    SSID                   : test1
+    BSSID                  : 0c:80:63:62:0f:4c
+    Dirección IP:                           192.168.1.87
+
+C:\Users\cmadrid>
+--------------
+cambio a diariamente test2
+----------
+
+
+C:\Users\cmadrid>echo %date% %time% & netsh wlan show interfaces | findstr /i /c:"Dirección" /c:"SSID" & netsh interface ip show config name="Wi-Fi" | findstr "Dirección IP"
+10/01/2021 11:37:43,48
+    Dirección física       : d2:bd:04:cf:7f:7c
+    SSID                   : test2
+    BSSID                  : 0e:80:63:72:0f:4c
+    Dirección IP:                           192.168.1.89
+
+C:\Users\cmadrid>
+
+-----
+----
+C:\Users\cmadrid>echo %date% %time% & netsh wlan show interfaces | findstr /i /c:"Dirección" /c:"SSID" & netsh interface ip show config name="Wi-Fi" | findstr "Dirección IP"
+12/01/2021 11:03:11,18
+    Dirección física       : c2:2b:b5:15:7f:c2
+    SSID                   : test1
+    BSSID                  : 0c:80:63:62:0f:4c
+    Dirección IP:                           192.168.1.87
+
+C:\Users\cmadrid>echo %date% %time% & netsh wlan show interfaces | findstr /i /c:"Dirección" /c:"SSID" & netsh interface ip show config name="Wi-Fi" | findstr "Dirección IP"
+12/01/2021 11:03:44,29
+    Dirección física       : 2a:47:c9:ff:ca:d4
+    SSID                   : test2
+    BSSID                  : 0e:80:63:72:0f:4c
+    Dirección IP:                           192.168.1.92
+
+C:\Users\cmadrid>echo %date% %time% & netsh wlan show interfaces | findstr /i /c:"Dirección" /c:"SSID" & netsh interface ip show config name="Wi-Fi" | findstr "Dirección IP"
+12/01/2021 11:04:13,00
+    Dirección física       : 40:74:e0:98:16:7e
+    SSID                   : freevirus
+    BSSID                  : e6:d1:1b:28:de:d8
+    Dirección IP:                           192.168.1.48
+

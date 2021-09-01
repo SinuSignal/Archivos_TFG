@@ -1,0 +1,48 @@
+------------
+lun 18 ene 2021 11:39:17 CET
+wlp3s0    IEEE 802.11  ESSID:"freevirus"  
+          Mode:Managed  Frequency:2.462 GHz  Access Point: C4:12:F5:1A:1B:6B   
+        inet 192.168.1.99  netmask 255.255.255.0  broadcast 192.168.1.255
+        ether 32:56:38:70:77:1e  txqueuelen 1000  (Ethernet)
+------------
+lun 18 ene 2021 11:40:47 CET
+wlp3s0    IEEE 802.11  ESSID:"freevirus"  
+          Mode:Managed  Frequency:2.462 GHz  Access Point: E8:D1:1B:28:DE:CB   
+        inet 192.168.1.99  netmask 255.255.255.0  broadcast 192.168.1.255
+        ether 32:56:38:70:77:1e  txqueuelen 1000  (Ethernet)
+------------
+lun 18 ene 2021 11:41:38 CET
+wlp3s0    IEEE 802.11  ESSID:"freevirus"  
+          Mode:Managed  Frequency:2.462 GHz  Access Point: E8:D1:1B:28:DE:CB   
+        inet 192.168.1.99  netmask 255.255.255.0  broadcast 192.168.1.255
+        ether 32:56:38:70:77:1e  txqueuelen 1000  (Ethernet)
+------------
+lun 18 ene 2021 11:58:14 CET
+wlp3s0    IEEE 802.11  ESSID:"freevirus"  
+          Mode:Managed  Frequency:2.462 GHz  Access Point: C4:12:F5:1A:1B:6B   
+        inet 192.168.1.100  netmask 255.255.255.0  broadcast 192.168.1.255
+        ether ce:df:18:36:38:3d  txqueuelen 1000  (Ethernet)
+------------
+lun 18 ene 2021 11:58:42 CET
+wlp3s0    IEEE 802.11  ESSID:"freevirus"  
+          Mode:Managed  Frequency:2.462 GHz  Access Point: C4:12:F5:1A:1B:6B   
+        inet 192.168.1.100  netmask 255.255.255.0  broadcast 192.168.1.255
+        ether ce:df:18:36:38:3d  txqueuelen 1000  (Ethernet)
+------------
+lun 18 ene 2021 11:58:50 CET
+wlp3s0    IEEE 802.11  ESSID:"freevirus"  
+          Mode:Managed  Frequency:2.462 GHz  Access Point: C4:12:F5:1A:1B:6B   
+        inet 192.168.1.100  netmask 255.255.255.0  broadcast 192.168.1.255
+        ether ce:df:18:36:38:3d  txqueuelen 1000  (Ethernet)
+------------
+lun 18 ene 2021 11:59:59 CET
+wlp3s0    IEEE 802.11  ESSID:"freevirus"  
+          Mode:Managed  Frequency:2.462 GHz  Access Point: C4:12:F5:1A:1B:6B   
+        inet 192.168.1.100  netmask 255.255.255.0  broadcast 192.168.1.255
+        ether ce:df:18:36:38:3d  txqueuelen 1000  (Ethernet)
+------------
+lun 18 ene 2021 12:00:22 CET
+wlp3s0    IEEE 802.11  ESSID:"freevirus"  
+          Mode:Managed  Frequency:2.462 GHz  Access Point: C4:12:F5:1A:1B:6B   
+        inet 192.168.1.101  netmask 255.255.255.0  broadcast 192.168.1.255
+        ether 2e:bc:ae:b4:b2:93  txqueuelen 1000  (Ethernet)

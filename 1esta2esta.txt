@@ -1,0 +1,134 @@
+------------
+jue 07 ene 2021 11:53:06 CET
+wlp3s0    IEEE 802.11  ESSID:"test1"
+          Mode:Managed  Frequency:2.412 GHz  Access Point: 0C:80:63:62:0F:4C
+        inet 192.168.1.69  netmask 255.255.255.0  broadcast 192.168.1.255
+        ether 6a:28:f6:2d:5f:1e  txqueuelen 1000  (Ethernet)
+------------
+jue 07 ene 2021 11:53:21 CET
+wlp3s0    IEEE 802.11  ESSID:"test2"
+          Mode:Managed  Frequency:2.412 GHz  Access Point: 0E:80:63:72:0F:4C
+        inet 192.168.1.67  netmask 255.255.255.0  broadcast 192.168.1.255
+        ether 7e:40:0c:79:e0:25  txqueuelen 1000  (Ethernet)
+------------
+jue 07 ene 2021 11:53:43 CET
+wlp3s0    IEEE 802.11  ESSID:"test1"
+          Mode:Managed  Frequency:2.412 GHz  Access Point: 0C:80:63:62:0F:4C
+        inet 192.168.1.69  netmask 255.255.255.0  broadcast 192.168.1.255
+        ether 6a:28:f6:2d:5f:1e  txqueuelen 1000  (Ethernet)
+------------
+jue 07 ene 2021 11:54:12 CET
+wlp3s0    IEEE 802.11  ESSID:"test2"
+          Mode:Managed  Frequency:2.412 GHz  Access Point: 0E:80:63:72:0F:4C
+        inet 192.168.1.67  netmask 255.255.255.0  broadcast 192.168.1.255
+        ether 7e:40:0c:79:e0:25  txqueuelen 1000  (Ethernet)
+-----------
+Reboot ap and shut down wifi interface
+----------
+------------
+jue 07 ene 2021 11:57:32 CET
+wlp3s0    IEEE 802.11  ESSID:"test2"
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 0E:80:63:72:0F:4C
+        inet 192.168.1.67  netmask 255.255.255.0  broadcast 192.168.1.255
+        ether 7e:40:0c:79:e0:25  txqueuelen 1000  (Ethernet)
+------------
+jue 07 ene 2021 11:57:54 CET
+wlp3s0    IEEE 802.11  ESSID:"test1"
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 0C:80:63:62:0F:4C
+        inet 192.168.1.69  netmask 255.255.255.0  broadcast 192.168.1.255
+        ether 6a:28:f6:2d:5f:1e  txqueuelen 1000  (Ethernet)
+-------------
+cambio a aleatorio ambas
+------------
+------------
+jue 07 ene 2021 12:00:39 CET
+wlp3s0    IEEE 802.11  ESSID:"test1"
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 0C:80:63:62:0F:4C
+        inet 192.168.1.69  netmask 255.255.255.0  broadcast 192.168.1.255
+        ether 6a:28:f6:2d:5f:1e  txqueuelen 1000  (Ethernet)
+------------
+jue 07 ene 2021 12:01:17 CET
+wlp3s0    IEEE 802.11  ESSID:"test2"
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 0E:80:63:72:0F:4C
+        inet 192.168.1.72  netmask 255.255.255.0  broadcast 192.168.1.255
+        ether 7a:0d:ed:50:f3:d4  txqueuelen 1000  (Ethernet)
+------------
+jue 07 ene 2021 12:01:53 CET
+wlp3s0    IEEE 802.11  ESSID:"test1"
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 0C:80:63:62:0F:4C
+        inet 192.168.1.73  netmask 255.255.255.0  broadcast 192.168.1.255
+        ether 7e:18:12:14:de:f8  txqueuelen 1000  (Ethernet)
+------------
+jue 07 ene 2021 12:03:00 CET
+wlp3s0    IEEE 802.11  ESSID:"test2"
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 0E:80:63:72:0F:4C
+        inet 192.168.1.75  netmask 255.255.255.0  broadcast 192.168.1.255
+        ether a2:f2:fc:a3:5e:aa  txqueuelen 1000  (Ethernet)
+------------
+vuelvo a estable
+------------
+------------
+jue 07 ene 2021 12:03:51 CET
+wlp3s0    IEEE 802.11  ESSID:"test2"
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 0E:80:63:72:0F:4C
+        inet 192.168.1.75  netmask 255.255.255.0  broadcast 192.168.1.255
+        ether a2:f2:fc:a3:5e:aa  txqueuelen 1000  (Ethernet)
+------------
+jue 07 ene 2021 12:04:05 CET
+wlp3s0    IEEE 802.11  ESSID:"test1"
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 0C:80:63:62:0F:4C
+        inet 192.168.1.69  netmask 255.255.255.0  broadcast 192.168.1.255
+        ether 6a:28:f6:2d:5f:1e  txqueuelen 1000  (Ethernet)
+------------
+jue 07 ene 2021 12:05:07 CET
+wlp3s0    IEEE 802.11  ESSID:"test2"
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 0E:80:63:72:0F:4C
+        inet 192.168.1.67  netmask 255.255.255.0  broadcast 192.168.1.255
+        ether 7e:40:0c:79:e0:25  txqueuelen 1000  (Ethernet)
+------------
+jue 07 ene 2021 12:05:43 CET
+wlp3s0    IEEE 802.11  ESSID:"test1"
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 0C:80:63:62:0F:4C
+        inet 192.168.1.69  netmask 255.255.255.0  broadcast 192.168.1.255
+        ether 6a:28:f6:2d:5f:1e  txqueuelen 1000  (Ethernet)
+------------
+jue 07 ene 2021 13:09:06 CET
+wlp3s0    IEEE 802.11  ESSID:"test1"
+          Mode:Managed  Frequency:2.427 GHz  Access Point: 0C:80:63:62:0F:4C
+        inet 192.168.1.69  netmask 255.255.255.0  broadcast 192.168.1.255
+        ether 6a:28:f6:2d:5f:1e  txqueuelen 1000  (Ethernet)
+------------
+otro ida despues de olvidar las 2 redes(2 todavia mantener)
+---------
+lun 18 ene 2021 12:03:33 CET
+wlp3s0    IEEE 802.11  ESSID:"test2"
+          Mode:Managed  Frequency:2.417 GHz  Access Point: 0E:80:63:72:0F:4C
+        inet 192.168.1.41  netmask 255.255.255.0  broadcast 192.168.1.255
+        ether f0:03:8c:4f:3b:3d  txqueuelen 1000  (Ethernet)
+------------
+lun 18 ene 2021 12:04:47 CET
+wlp3s0    IEEE 802.11  ESSID:"test1"
+          Mode:Managed  Frequency:2.417 GHz  Access Point: 0C:80:63:62:0F:4C
+        inet 192.168.1.102  netmask 255.255.255.0  broadcast 192.168.1.255
+        ether 26:65:64:0d:6d:68  txqueuelen 1000  (Ethernet)
+------------
+lun 18 ene 2021 12:05:04 CET
+wlp3s0    IEEE 802.11  ESSID:"test2"
+          Mode:Managed  Frequency:2.417 GHz  Access Point: 0E:80:63:72:0F:4C
+        inet 192.168.1.41  netmask 255.255.255.0  broadcast 192.168.1.255
+        ether f0:03:8c:4f:3b:3d  txqueuelen 1000  (Ethernet)
+-----
+2 ahora estable
+-----
+------------
+lun 18 ene 2021 12:06:11 CET
+wlp3s0    IEEE 802.11  ESSID:"test1"  
+          Mode:Managed  Frequency:2.417 GHz  Access Point: 0C:80:63:62:0F:4C   
+        inet 192.168.1.102  netmask 255.255.255.0  broadcast 192.168.1.255
+        ether 26:65:64:0d:6d:68  txqueuelen 1000  (Ethernet)
+------------
+lun 18 ene 2021 12:06:24 CET
+wlp3s0    IEEE 802.11  ESSID:"test2"  
+          Mode:Managed  Frequency:2.417 GHz  Access Point: 0E:80:63:72:0F:4C   
+        inet 192.168.1.103  netmask 255.255.255.0  broadcast 192.168.1.255
+        ether 2a:69:d1:48:3c:ba  txqueuelen 1000  (Ethernet)

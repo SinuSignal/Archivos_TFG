@@ -1,0 +1,51 @@
+------------
+mié 06 ene 2021 19:50:29 CET
+wlp3s0    IEEE 802.11  ESSID:"test1"
+          Mode:Managed  Frequency:2.412 GHz  Access Point: 0C:80:63:62:0F:4C
+        inet 192.168.1.41  netmask 255.255.255.0  broadcast 192.168.1.255
+        ether f0:03:8c:4f:3b:3d  txqueuelen 1000  (Ethernet)
+------------
+mié 06 ene 2021 19:52:09 CET
+wlp3s0    IEEE 802.11  ESSID:"test2"
+          Mode:Managed  Frequency:2.412 GHz  Access Point: 0E:80:63:72:0F:4C
+        inet 192.168.1.67  netmask 255.255.255.0  broadcast 192.168.1.255
+        ether 7e:40:0c:79:e0:25  txqueuelen 1000  (Ethernet)
+------------
+mié 06 ene 2021 19:53:30 CET
+wlp3s0    IEEE 802.11  ESSID:"test1"
+          Mode:Managed  Frequency:2.412 GHz  Access Point: 0C:80:63:62:0F:4C
+        inet 192.168.1.41  netmask 255.255.255.0  broadcast 192.168.1.255
+        ether f0:03:8c:4f:3b:3d  txqueuelen 1000  (Ethernet)
+------------
+mié 06 ene 2021 19:54:38 CET
+wlp3s0    IEEE 802.11  ESSID:"test2"
+          Mode:Managed  Frequency:2.412 GHz  Access Point: 0E:80:63:72:0F:4C
+        inet 192.168.1.67  netmask 255.255.255.0  broadcast 192.168.1.255
+        ether 7e:40:0c:79:e0:25  txqueuelen 1000  (Ethernet)
+----------
+Reboor AP
+---------
+------------
+mié 06 ene 2021 20:04:26 CET
+wlp3s0    IEEE 802.11  ESSID:"test1"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: 0C:80:63:62:0F:4C   
+        inet 192.168.1.41  netmask 255.255.255.0  broadcast 192.168.1.255
+        ether f0:03:8c:4f:3b:3d  txqueuelen 1000  (Ethernet)
+------------
+mié 06 ene 2021 20:05:39 CET
+wlp3s0    IEEE 802.11  ESSID:"test2"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: 0E:80:63:72:0F:4C   
+        inet 192.168.1.67  netmask 255.255.255.0  broadcast 192.168.1.255
+        ether 7e:40:0c:79:e0:25  txqueuelen 1000  (Ethernet)
+------------
+mié 06 ene 2021 20:13:16 CET
+wlp3s0    IEEE 802.11  ESSID:"freevirus"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: C4:12:F5:1A:1B:6B   
+        inet 192.168.1.41  netmask 255.255.255.0  broadcast 192.168.1.255
+        ether f0:03:8c:4f:3b:3d  txqueuelen 1000  (Ethernet)
+------------
+mié 06 ene 2021 20:15:16 CET
+wlp3s0    IEEE 802.11  ESSID:"test1"  
+          Mode:Managed  Frequency:2.412 GHz  Access Point: 0C:80:63:62:0F:4C   
+        inet 192.168.1.41  netmask 255.255.255.0  broadcast 192.168.1.255
+        ether f0:03:8c:4f:3b:3d  txqueuelen 1000  (Ethernet)
